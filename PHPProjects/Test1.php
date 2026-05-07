@@ -1,4 +1,4 @@
 <?php
-$nama = "Ali";
+$nama = "Abu Bakar";
 echo "Selamat Datang, $nama";
 ?>

@@ -20,4 +20,4 @@ $panjang = 8;
 $lebar = 5;
 // Kira luas
 $luas = $panjang * $lebar;
-echo "Luas segi empat ialah $luas unit persegi.";
+echo "Luas Segi Empat.";

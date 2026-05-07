@@ -1,6 +1,6 @@
 <?php
 //mengisythiharkan pemboleh
-$nama = "ALI";
+$nama = "Abu";
 $umur = 25;
 $berat = 70.5;
 
