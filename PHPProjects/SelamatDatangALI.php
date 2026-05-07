@@ -1,3 +1,3 @@
 <?php
-$message = "ALI!";
-echo'Selamat Datang, $message';
+$message = "Ali!";
+echo 'Selamat Datang, ' . $message;

@@ -20,4 +20,4 @@ $panjang = 8;
 $lebar = 5;
 // Kira luas
 $luas = $panjang * $lebar;
-echo "Luas Segi Empat.";
+echo "Luas Segi Empat tepat: $luas .<br>";
