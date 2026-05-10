@@ -11,7 +11,7 @@ echo "Hasil Tolak: " . ($x - $y) . "<br>";
 echo "Hasil Darab: " . ($x * $y) . "<br>";
 echo "Hasil Bahagi: " . ($x / $y) . "<br>";
 
-$bandar = "Kota Bharu";
+$bandar = "Johor Bahru";
 $negeri = "Kelantan";
 $poskod = "16100";
 echo "Saya tinggal di $bandar, $negeri ($poskod) .<br>";
